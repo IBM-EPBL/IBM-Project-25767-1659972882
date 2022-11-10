@@ -18,3 +18,9 @@ In order to detect and predict e-banking phishing websites, we proposed an intel
 
 
 
+TEAM MEMBERS:
+Nandhini.v[Team lead]
+Preethi.E
+Poovarasi.S
+Pavithra.M
+
